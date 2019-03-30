@@ -93,7 +93,7 @@ C0034069,lungenfibrose
 C0000786,aborte spontan
 C0857794,livedo - vaskulitis
 C0149793,amaurosis fugax
-C0022660,nierenversagen , akutes
+C0022660,nierenversagen | akutes
 C0003460,anurie
 C0028961,oligurie
 C0036572,krampfanfaelle
@@ -176,7 +176,7 @@ C0854113,trockene schleimhaut
 C0016204,flatulenz
 C0236171,infektanfaelligkeit erhoeht
 C0038363,stomatitis aphtosa
-C0026846,atrophie , muskel
+C0026846,atrophie | muskel
 C0042847,vitamin b12 - mangel
 C0016412,folsaeuremangel
 C0002888,megaloblastaere anaemie
@@ -187,7 +187,7 @@ C0221245,rhagaden
 C0020598,hypokalzaemie
 C0151825,knochenschmerzen
 C0029456,osteoporose
-C0019189,hepatitis , chronische
+C0019189,hepatitis | chronische
 C0011608,dermatitis herpetiformis
 C3203595,anti-transglutaminase - antikoerper
 C0041834,erythem
@@ -243,11 +243,11 @@ C0281778,analabszess
 C0221036,acrodermatitis enteropathica
 C0022081,iritis
 C0085652,pyoderma gangraenosum
-C0016663,frakturen , pathologische
+C0016663,frakturen | pathologische
 C0221204,osteolyse
 C0152025,polyneuropathie
 C0020437,hyperkalzaemie
-C0021038,immunglobuline , leichtketten
+C0021038,immunglobuline | leichtketten
 C0948824,blutungsanaemie
 C1321898,blut im stuhl
 C1258215,ileus
@@ -316,7 +316,7 @@ C0376288,amaurose
 C0002418,amblyopie
 C0017152,gastritis
 C0038358,ulcus ventriculi
-C0494305,sekundaerer hyperparathyreoidismus , anderenorts nicht klassifiziert
+C0494305,sekundaerer hyperparathyreoidismus | anderenorts nicht klassifiziert
 C0031046,perikarditis
 C2721728,hiv - kardiomyopathie
 C0424230,psychomotorische verlangsamung
@@ -361,7 +361,7 @@ C0152445,hydrops der gallenblase
 C0027709,nephrokalzinose
 C0009421,koma
 C0031157,angina tonsillaris
-C0085435,arthritis , reaktive
+C0085435,arthritis | reaktive
 C0041976,urethritis
 C0009763,konjunktivitis
 C0006267,bronchiektasen
@@ -411,7 +411,7 @@ C0232766,flattertremor
 C1142109,sopor
 C0009677,makroglossie
 C0020578,hyperventilation
-C0002064,alkalose , respiratorische
+C0002064,alkalose | respiratorische
 C0035229,respiratorische insuffizienz
 C0020440,hyperkapnie
 C0001127,respiratorische azidose
@@ -435,7 +435,7 @@ C0234979,dysdiadochokinese
 C0193388,leberbiopsie
 C0042571,drehschwindel
 C0494562,sonstiger hoerverlust
-C1136085,gammopathie , monoklonale
+C1136085,gammopathie | monoklonale
 C0001824,granulozytopenie
 C0086438,hypogammaglobulinaemie
 C0525027,kapsulorhexis
@@ -528,7 +528,7 @@ C0238457,nierenvenenthrombose
 C0034734,raynaud
 C0027051,myokardinfarkt
 C0013922,embolie
-C0000809,abort , habitueller
+C0000809,abort | habitueller
 C0043251,trauma
 C0035243,atemwegsinfektion
 C0014544,epileptischer anfall
@@ -604,7 +604,7 @@ C0025007,masern
 C0015231,exanthema subitum
 C0006840,candidose
 C0011616,kontaktdermatitis
-C0036508,dermatitis , seborrhoische
+C0036508,dermatitis | seborrhoische
 C0010692,zystitis
 C1704272,benigne prostatahyperplasie
 C0032961,schwangerschaft
@@ -621,8 +621,8 @@ C0155765,mikroangiopathie
 C0478124,sonstige hautveraenderungen
 C0277799,intermittierendes fieber
 C0036749,serositis
-C0495672,hepatomegalie , anderenorts nicht klassifiziert
-C0495673,splenomegalie , anderenorts nicht klassifiziert
+C0495672,hepatomegalie | anderenorts nicht klassifiziert
+C0495673,splenomegalie | anderenorts nicht klassifiziert
 C0235999,schmerzen hals / schulter
 C0743912,ferritin hoch
 C1141969,ergotherapie
@@ -673,7 +673,7 @@ C0026267,mitralklappenprolaps
 C0003486,aortenaneurysma
 C0265004,aortenektasie
 C0003706,arachnodaktylie
-C0392477,plattfuss , kongenital
+C0392477,plattfuss | kongenital
 C0085610,sinusbradykardie
 C0030587,paroxysmale vorhoftachykardie
 C0235477,bigeminus

@@ -198,9 +198,6 @@ print(temp3)
 
 #create two csv
 
-with open('symptoms.csv', 'w') as f:
-    for key in symptoms.keys():
-        f.write("%s,%s\n"%(key,symptoms[key]))
 
 with open('disease.csv', 'w') as f:
     for key in disease.keys():
@@ -211,3 +208,13 @@ with open('disease.csv', 'w') as f:
         temp=''.join(temp)
         disease[key]=temp
         f.write("%s,%s\n"%(key,disease[key]))
+
+with open('symptoms.csv', 'w') as f:
+    for key in symptoms.keys():
+        temp=list(symptoms[key])
+        for i in range(len(temp)):
+            if(temp[i]==','):
+                temp[i]='|'
+        temp=''.join(temp)
+        symptoms[key]=temp
+        f.write("%s,%s\n"%(key,symptoms[key]))
