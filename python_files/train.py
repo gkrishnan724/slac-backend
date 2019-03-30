@@ -140,7 +140,6 @@ results_ordered_by_probability = map(lambda x: {"disease": x[0],"prop": x[1] * 1
 
 
 trans=(list(results_ordered_by_probability)[:3])
-print(trans)
 
 #store the predicted probabilities for class 1
 y_pred_prob = mnb.predict_proba(sample)[0]
@@ -167,13 +166,33 @@ with open(filename, 'r') as csvfile:
 
     for row in csvreader:
         rows.append(row)
-symptom={}
+disease={}
 for i in range(1,len(rows)):
-    symptom[rows[i][1]]=rows[i][0]
+    disease[rows[i][1]]=rows[i][0]
 
 #translations
 temp1=(trans[0]['disease'])
 temp2=(trans[1]['disease'])
 temp3=(trans[2]['disease'])
 print("*********")
-print(symptom[temp1], trans[0]['prop'],symptom[temp2], trans[1]['prop'], symptom[temp3], trans[2]['prop'])
+print(disease[temp1], trans[0]['prop'],disease[temp2], trans[1]['prop'], disease[temp3], trans[2]['prop'])
+
+#also return symptoms with the top three diseases
+temp1=trans[0]['sy']
+temp2=trans[1]['sy']
+temp3=trans[2]['sy']
+
+symptoms={}
+for i in range(1,len(rows)):
+    symptoms[rows[i][3]]=rows[i][2]
+for i in range(len(temp1)):
+    temp1[i]=symptoms[temp1[i]]
+for i in range(len(temp2)):
+    temp2[i]=symptoms[temp2[i]]
+for i in range(len(temp3)):
+    temp3[i]=symptoms[temp3[i]]
+
+print(temp1)
+print(temp2)
+print(temp3)
+
