@@ -4,6 +4,12 @@ const dbConnection = require('./db');
 const bcrypt = require('bcrypt');
 const mode = process.env.mode || "development";
 const dbURL = (process.env.DATABASE_URL ) || "postgres://postgres:root@localhost:5432/slac"
+const passportJWT = require("passport-jwt");
+const JWTStrategy   = passportJWT.Strategy;
+const ExtractJWT = passportJWT.ExtractJwt;
+const secretKey = process.env.SECRET_KEY || 'lol'
+
+
 let Strategy = new localStrategy(function(username,password,done){
    
     let db = new dbConnection(dbURL);
@@ -26,7 +32,7 @@ let Strategy = new localStrategy(function(username,password,done){
             }
             if(resp){
                 
-                return done(null,data[0]);
+                return done(null,data[0].user_id);
             }
             return done(null,false,{message:"Auth failure"});
         });
@@ -36,18 +42,39 @@ let Strategy = new localStrategy(function(username,password,done){
     });
 });
 
-let serializer = function(user, done) {
-    done(null, user.user_id);
-}
 
+let jwtStrategy = new JWTStrategy({
+        jwtFromRequest: ExtractJWT.fromAuthHeaderAsBearerToken(),
+        secretOrKey   : secretKey
+    },
+    function (username, done) {
+        
 
-let deserializer = function(user, done) {
-    let db = new dbConnection(dbURL);
-    let result = db.getUser(user)
-    result.then(function(data){
-        done(null,{id:data[0].user_id,type:data[0].user_type});
-    });
-}
+        //find the user in db if needed. This functionality may be omitted if you store everything you'll need in JWT payload.
+        let db = new dbConnection(dbURL);
+        let result;
+        if(validateEmail(username)){
+            
+            result = db.getUser(username,"user_email");
+        }
+        else{
+            result = db.getUser(username);
+        }
+        result.then(function(data){
+            if(data.length == 0){
+                err = new Error("No user");
+                return done(err);
+            }
+            else{
+                return done(null,data[0]);
+            }
+        },function(err){
+            return done(err);
+
+        });
+    }
+);
+
 function validateEmail(email) {
     var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(String(email).toLowerCase());
@@ -55,7 +82,6 @@ function validateEmail(email) {
 
 module.exports = {
     Strategy:Strategy,
-    Serializer:serializer,
-    deSerializer:deserializer
+    jwtStrategy:jwtStrategy
 };
 

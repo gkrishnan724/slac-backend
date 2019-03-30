@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 const passport = require('passport');
 const path = require('path');
-
+const cors = require('cors');
 
 //ENV variables
 //Secret and mode
@@ -23,19 +23,14 @@ app.set('view engine','ejs');
 const api = require('./routes/api');
 
 // Middlewares
-app.use(session({   //Express session
-    secret: secretKey,
-    saveUninitialized: true,
-    resave: true
-})); 
-app.use(cookieParser())
+app.use(cors());
+
 app.use(bodyParser.urlencoded({'extended':'true'})); 
 app.use(bodyParser.json());  
                             
 app.use(passport.initialize());   // passport initialize middleware
 app.use(passport.session()); 
 
-  
 
 
 
