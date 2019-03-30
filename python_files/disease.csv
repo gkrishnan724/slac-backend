@@ -1,11 +1,11 @@
-C0162565,porphyrie , akute intermittierende
+C0162565,porphyrie | akute intermittierende
 C0162566,porphyria cutanea tarda
 C0004238,vorhofflimmern
 C0023212,linksherzinsuffizienz
 C0235527,rechtsherzinsuffizienz
 C0018801,herzinsuffizienz
 C0007194,obstruktive kardiomyopathie
-C0007196,kardiomyopathie , restriktive
+C0007196,kardiomyopathie | restriktive
 C0007193,dilatative kardiomyopathie
 C0024790,paroxysmale naechtliche haemoglobinurie
 C0037889,anaemie kugelzell
@@ -14,7 +14,7 @@ C0947845,akute und chronische sarkoidose
 C0340164,loefgren – syndrom
 C0042171,heerfordt - syndrom
 C0085278,antiphospholipidsyndrom
-C0034155,mikroangiopathie , thrombotische
+C0034155,mikroangiopathie | thrombotische
 C0020532,hypersplenismus
 C0032227,pleuraerguss
 C0034063,lungenoedem
@@ -32,10 +32,10 @@ C0023241,pneumonie durch legionella
 C0857946,atypische pneumonie
 C1535939,pneumocystis jirovecii - pneumonie
 C0041296,tuberkulose
-C0041333,tuberkulose , urogenitale
+C0041333,tuberkulose | urogenitale
 C1740806,atypische mykobakteriose
 C0027145,myxoedem
-C0002390,allergische alveolitis , exogene
+C0002390,allergische alveolitis | exogene
 C0043167,pertussis
 C0017150,gastrinom
 C0085695,chronische gastritis
@@ -45,7 +45,7 @@ C0024473,magnesiummangel
 C0032827,kaliummangel
 C0042842,vitamin - a-mangel
 C0007570,gluten - sensitive enteropathie
-C0949570,allergie , weizen
+C0949570,allergie | weizen
 C0221036,acrodermatitis enteropathica
 C0017155,menetrier - krankheit
 C0023530,leukozytopenie
@@ -62,7 +62,7 @@ C0010346,morbus crohn
 C0026764,plasmazellmyelom
 C1527249,kolorektales karzinom
 C0026896,myasthenia gravis
-C0003873,arthritis , rheumatoide
+C0003873,arthritis | rheumatoide
 C0002871,anaemie
 C0039070,synkope
 C0026769,multiple sklerose
@@ -103,7 +103,7 @@ C0014118,endokarditis
 C0034734,Raynaud
 C0036341,Schizophrenie
 C0038525,subarachnoidalblutung
-C0019187,hepatitis , alkoholische
+C0019187,hepatitis | alkoholische
 C0032461,polycythaemia
 C0004943,morbus behcet
 C0011206,delir
@@ -111,7 +111,7 @@ C0020651,orthostasesyndrom
 C0011633,dermatomyositis
 C0002895,sichelzellkrankheit
 C0018995,haemochromatose
-C0019151,enzephalopathie , hepatische
+C0019151,enzephalopathie | hepatische
 C0002726,amyloidose
 C0035222,akutes respiratorisches distress – syndrom
 C1144799,hypertensive kardiomyopathie
@@ -187,7 +187,7 @@ C0017152,gastritis
 C0264558,spannungspneumothorax
 C0008373,cholesteatom
 C0031046,perikarditis
-C0020258,hydrozephalus , normaldruck
+C0020258,hydrozephalus | normaldruck
 C0152018,oesophaguskarzinom
 C2239176,hepatozellulaeres karzinom
 C0040028,essentielle thrombozythaemie
@@ -217,7 +217,7 @@ C0043019,Wallenberg Syndrom
 C0558355,Tonsillenkarzinom
 C0206702,klatskintumor
 C0024225,lymphangitis
-C0030920,ulkus , gastroduodenal
+C0030920,ulkus | gastroduodenal
 C0017601,glaukom
 C3495928,schilddruesenbedingte orbitopathie
 C0949690,spondylarthritis
@@ -241,9 +241,9 @@ C0003550,broca - aphasie
 C0024904,mastoiditis
 C0039621,tetanie
 C0259756,herxheimer - reaktion
-C1258104,sklerose , progressive systemische
+C1258104,sklerose | progressive systemische
 C0030436,parakeratose
-C0087031,morbus still , juvenile form
+C0087031,morbus still | juvenile form
 C0175702,williams - beuren - syndrom
 C0020305,hydrops fetalis
 C0553720,sphaerozytose
@@ -271,7 +271,7 @@ C0007177,herzbeuteltamponade
 C0265144,chronische konstriktive perikarditis
 C0027051,herzinfarkt
 C0032269,pneumokokkeninfektionen
-C0026936,mykoplasmeninfektion , nicht naeher bezeichnet
+C0026936,mykoplasmeninfektion | nicht naeher bezeichnet
 C1096584,chlamydia pneumoniae - infektion
 C0029291,ornithose
 C0034362,q - fieber
@@ -291,12 +291,12 @@ C0400821,mikroskopische kolitis
 C0022104,reizdarm
 C0001339,akute pankreatitis
 C0149521,chronische pankreatitis
-C0206695,karzinom , neuroendokrines
+C0206695,karzinom | neuroendokrines
 C0021670,insulinom
 C0086768,verner - morrison - syndrom
-C0019189,hepatitis , chronische
+C0019189,hepatitis | chronische
 C0023896,alkoholische lebererkrankung
-C0162557,leberversagen , akutes
+C0162557,leberversagen | akutes
 C3805004,postinfektioese glomerulonephritis
 C0451728,rapid - progressives nephritisches syndrom
 C3805154,renales osteopathiesyndrom
