@@ -1,0 +1,728 @@
+C0000737,abdominalschmerzen
+C0235704,adynamie
+C0030554,paraesthesie
+C0030552,parese
+C0020538,hypertonie
+C0020555,hypertrichose
+C0005758,Blasenbildung
+C0030252,palpitationen
+C1868917,herzrasen
+C0392684,unregelmaessiger puls
+C0012833,schwindel
+C0003467,angst
+C0857217,unruhe innere
+C0013404,dyspnoe
+C0032617,polyurie
+C0039070,synkope
+C0231807,belastungsdyspnoe
+C0085619,orthopnoe
+C0231835,tachypnoe
+C0231912,naechtlicher husten
+C1956414,asthma cardiale
+C0010520,zyanose
+C0034063,lungenoedem
+C0032227,pleuraerguss
+C1695782,zerebrale hypoperfusion
+C0920048,verminderte vigilanz
+C0009676,verwirrtheit
+C3714552,schwaechegefuehl
+C0015672,muedigkeit
+C0235886,Beinoedem
+C0156195,chronische stauungsleber
+C0019209,hepatomegalie
+C0022346,ikterus
+C0003962,aszites
+C0027497,uebelkeit
+C0003123,appetitlosigkeit
+C0028734,nykturie
+C0039239,sinustachykardie
+C0242073,lungenstauung
+C0013604,oedem
+C0002871,anaemie
+C1291077,meteorismus
+C0006625,kachexie
+C0033687,proteinurie
+C0018800,kardiomegalie
+C0002962,angina pectoris
+C0018801,herzinsuffizienz
+C0267821,leberstauung
+C0235532,zyanose peripher
+C0026266,mitralinsuffizienz
+C1142277,brauner urin
+C0018681,kopfschmerzen
+C0030312,panzytopenie
+C0019080,blutung
+C0019054,haemolyse
+C0010828,zytopenie
+C0018965,haematurie
+C0398623,thrombophilie
+C0008031,thoraxschmerz
+C0011168,dysphagie
+C0242350,impotenz
+C0004604,rueckenschmerzen
+C0231528,myalgie
+C0030232,blaesse
+C0038002,splenomegalie
+C0947622,cholezystolithiasis
+C0741494,bilirubin insgesamt hoch
+C0008350,cholelithiasis
+C0518656,chronische muedigkeit
+C0023530,leukozytopenie
+C0040034,thrombozytopenie
+C0031256,petechien
+C0019214,hepatosplenomegalie
+C0015967,fieber
+C2363736,unbeabsichtigter gewichtsverlust
+C0010200,husten
+C0162323,polyarthritis
+C0014743,erythema nodosum
+C0456973,hilaere lymphadenopathie
+C0030583,parotitis
+C0042164,uveitis
+C0022073,iridozyklitis
+C0376175,fazialisparese
+C0859870,reizhusten
+C0497156,lymphadenopathie
+C0025309,meningoenzephalitis
+C0547030,sehstoerungen
+C0030353,stauungspapille
+C0020255,hydrozephalus
+C0031039,perikarderguss
+C0553702,kalzium hoch
+C0034069,lungenfibrose
+C0000786,aborte spontan
+C0857794,livedo - vaskulitis
+C0149793,amaurosis fugax
+C0022660,nierenversagen | akutes
+C0003460,anurie
+C0028961,oligurie
+C0036572,krampfanfaelle
+C1565489,niereninsuffizienz
+C0221021,mikroangiopathische haemolytische anaemie
+C0002878,haemolytische anaemie
+C1260922,atmung anomal
+C0035508,rasselgeraeusche lunge
+C3887611,unruhe
+C0743323,akute dyspnoe
+C0030193,schmerzen nnb
+C0043144,giemen
+C0239324,verlaengertes exspirium
+C0850149,trockener husten
+C0010201,chronischer husten
+C0232118,pulsus paradoxus
+C0014457,eosinophilie
+C0085615,rechtsschenkelblock
+C0013990,emphysem
+C0028778,obstruktion
+C0034072,cor pulmonale
+C0009080,trommelschlegelfinger
+C0036974,schock
+C0020649,hypotonie
+C0035455,rhinitis
+C0023067,laryngitis
+C0031350,pharyngitis
+C0009443,schnupfen
+C0242429,rauer hals
+C0085636,lichtscheu
+C0032231,pleuritis
+C0023380,lethargie
+C0011991,diarrhoe
+C0028081,nachtschweiss
+C0013428,dysurie
+C0033581,prostatitis
+C0002453,amenorrhoe
+C0025874,metrorrhagie
+C0025323,menorrhagie
+C0043046,wasting - syndrom
+C0151908,trockene haut
+C0019825,heiserkeit
+C1859270,langsame sprache
+C0428977,bradykardie
+C0023518,leukozytose
+C1096446,leichtes fieber
+C0024282,lymphozytose
+C0042963,erbrechen
+C0014869,reflux - oesophagitis
+C0038238,steatorrhoe
+C0541977,gastrin hoch
+C0497194,andere peptische ulzera
+C3714614,voellegefuehl
+C0024523,malabsorptionssyndrom
+C0151435,enteropathische arthritis
+C0003864,arthritis
+C0574960,sakroiliitis
+C0151859,polyserositis
+C0004134,ataxie
+C3714745,malabsorption
+C0003862,arthralgie
+C0014118,endokarditis
+C0162316,eisenmangelanaemie
+C0085632,apathie
+C0242422,parkinsonismus
+C0036665,sinnesorgane
+C0040264,tinnitus
+C0015397,ophthalmopathie nnb
+C0002170,alopezie
+C0151889,hyperreflexie
+C0852415,paraesthesien und dysaesthesien
+C0039621,tetanie
+C0003811,arrhythmie
+C0340464,extrasystolie
+C0151786,muskelschwaeche
+C0009806,obstipation
+C0085602,polydipsie
+C0028077,nachtblindheit
+C0854113,trockene schleimhaut
+C0016204,flatulenz
+C0236171,infektanfaelligkeit erhoeht
+C0038363,stomatitis aphtosa
+C0026846,atrophie | muskel
+C0042847,vitamin b12 - mangel
+C0016412,folsaeuremangel
+C0002888,megaloblastaere anaemie
+C0042880,vitamin - k - mangel
+C0013491,ekchymosen
+C0017672,zungenbrennen
+C0221245,rhagaden
+C0020598,hypokalzaemie
+C0151825,knochenschmerzen
+C0029456,osteoporose
+C0019189,hepatitis | chronische
+C0011608,dermatitis herpetiformis
+C3203595,anti-transglutaminase - antikoerper
+C0041834,erythem
+C0019158,hepatitis
+C0478120,sonstige stuhlveraenderungen
+C1510471,vitaminmangel
+C0033774,pruritus
+C0042109,urtikaria
+C0011615,atopisches ekzem
+C0026821,kraempfe
+C0401151,chronische diarrhoe
+C0038362,stomatitis
+C0031099,parodontitis
+C0037199,sinusitis
+C0029882,otitis media
+C0032285,pneumonie
+C0242301,furunkel
+C0018944,haematom
+C0020443,hypercholesterinaemie
+C0026848,myopathie
+C0042755,virilismus
+C0020621,hypokaliaemie
+C0332601,vollmondgesicht
+C0311277,stammfettsucht
+C0020619,hypogonadismus
+C0947912,myasthenie
+C0019572,hirsutismus
+C0011570,depression
+C0022822,rundruecken
+C0016658,frakturen
+C0234222,druckgefuehl
+C2981158,libidoverlust
+C0156312,hodenatrophie
+C0018418,gynaekomastie
+C0239571,foetor hepaticus
+C0854171,stoerung der temperaturregulation
+C1744601,herzfrequenz anomal
+C0026205,miosis
+C0033377,ptosis
+C0014306,enophthalmus
+C0036454,skotom
+C0029089,augenmuskellaehmung
+C0014583,episkleritis
+C0022568,keratitis
+C0392525,nephrolithiasis
+C0042384,vaskulitis
+C0017658,glomerulonephritis
+C0015695,fettleber
+C0002726,amyloidose
+C0694551,schmerzen im rechten unteren quadranten
+C0079238,gastrointestinale fisteln
+C0281778,analabszess
+C0221036,acrodermatitis enteropathica
+C0022081,iritis
+C0085652,pyoderma gangraenosum
+C0016663,frakturen | pathologische
+C0221204,osteolyse
+C0152025,polyneuropathie
+C0020437,hyperkalzaemie
+C0021038,immunglobuline | leichtketten
+C0948824,blutungsanaemie
+C1321898,blut im stuhl
+C1258215,ileus
+C0036439,skoliose
+C0012569,doppelbildersehen
+C0013362,dysarthrie
+C0546956,bruechige naegel
+C0014745,palmarerythem
+C0039520,tendovaginitis
+C0006444,bursitis
+C2363726,bewegungsschmerz
+C0038999,schwellung
+C0041657,bewusstlosigkeit
+C0029134,optikusneuritis
+C0016579,kribbeln
+C0012766,sensibilitaetsstoerungen der haut
+C0085582,retrobulbaerneuritis
+C0151827,augenschmerzen
+C0029124,optikusatrophie
+C0271355,abduzensparese
+C0028738,nystagmus
+C0231687,spastischer gang
+C0026838,spastik
+C0234376,intentionstremor
+C0040997,trigeminusneuralgie
+C0235146,euphorie
+C0020580,hypaesthesie
+C0085606,harndrang
+C0021167,inkontinenz
+C0080274,harnverhalt
+C1697844,paralysen und paresen ( ausschl . hirnnerven )
+C0035410,rhabdomyolyse
+C0042345,varizen
+C0034150,purpura
+C0019114,haemosiderose
+C0162834,hyperpigmentierung
+C0011644,dermatosklerose
+C0406500,lipodermatosklerose
+C1306862,atrophie blanche
+C0011620,stauungsekzem
+C0018021,struma
+C0022107,reizbarkeit
+C0917801,schlaflosigkeit
+C0006370,heisshunger
+C0038990,schwitzen
+C0015300,exophthalmus
+C0851578,schlafstoerungen
+C0040822,tremor
+C0007859,nackenschmerzen
+C0151315,nackensteifigkeit
+C0151818,opisthotonus
+C0947927,bewusstseinsstoerungen ane
+C0025287,meningismus
+C0020461,hyperkaliaemie
+C0018520,foetor ex ore
+C0151578,kreatinin hoch
+C1522133,cholesterin hoch
+C0020557,triglyzeride hoch
+C0392178,lipidurie
+C0013144,somnolenz
+C0002622,amnesie
+C1737242,zeitlich - oertliche desorientierung
+C0019521,singultus
+C0006114,hirnoedem
+C0376288,amaurose
+C0002418,amblyopie
+C0017152,gastritis
+C0038358,ulcus ventriculi
+C0494305,sekundaerer hyperparathyreoidismus | anderenorts nicht klassifiziert
+C0031046,perikarditis
+C2721728,hiv - kardiomyopathie
+C0424230,psychomotorische verlangsamung
+C0043094,gewichtszunahme
+C0021359,infertilitaet
+C0020672,hypothermie
+C3203358,hypoventilation
+C0342151,angeborene hypothyreose ohne struma
+C0027145,myxoedem
+C0154251,fettstoffwechselstoerungen
+C0232462,inappetenz
+C0232488,kolik
+C0029877,otitis
+C0024904,mastoiditis
+C0031117,periphere neuropathie
+C2609241,ulzerationen ane
+C0542247,zittern
+C0026961,mydriasis
+C1704374,endokrines karzinom
+C0004377,automatismen
+C0239779,grimassieren
+C0013415,dysthymie
+C0017979,glukosurie
+C0342952,hypermetabolismus
+C0042396,vasokonstriktion
+C0596624,glykogenolyse
+C0023890,leberzirrhose
+C0027726,nephrotisches syndrom
+C0020476,hyperlipoproteinaemie
+C3203485,orthostatische dysregulation
+C0038454,apoplektischer insult
+C0030486,querschnittslaehmung
+C0235106,todesangst
+C0007177,herzbeuteltamponade
+C1622418,blaeschen
+C0022504,ekzema herpeticatum
+C0042023,pollakisurie
+C0152250,thrombophlebitis migrans
+C1168162,courviosier - zeichen
+C0271650,glukoseintoleranz
+C0152445,hydrops der gallenblase
+C0027709,nephrokalzinose
+C0009421,koma
+C0031157,angina tonsillaris
+C0085435,arthritis | reaktive
+C0041976,urethritis
+C0009763,konjunktivitis
+C0006267,bronchiektasen
+C0030293,pankreasinsuffizienz
+C1623038,zirrhose
+C2939175,mekoniumileus
+C0018808,herzgeraeusche
+C0221347,akrozyanose
+C0022116,ischaemie
+C0020452,hyperaemie
+C1096426,verfolgungswahn
+C0022492,liebeswahn
+C0233682,beziehungswahn
+C0233687,gedankeneingebung
+C0233686,gedankenentzug
+C0233688,gedankenausbreitung
+C0011253,wahnideen
+C4049320,affektive ambivalenz
+C0004352,autismus
+C0011551,depersonalisation
+C0233754,derealisation
+C0018524,halluzinationen
+C0007398,katatonie
+C1527405,erythrozytose
+C0202113,ldh
+C0702266,basophilie
+C0014804,erythromelalgie
+C0014591,epistaxis
+C0406191,pseudofollikulitis
+C0042165,uveitis anterior
+C0042167,uveitis posterior
+C0157738,chron ulcera haut ( inkl varikoes )
+C0233407,orientierungsstoerung
+C0392156,akathisie
+C0085631,agitiertheit
+C0027121,myositis
+C0011633,dermatomyositis
+C0027059,myokarditis
+C0549493,alveolitis
+C0085642,livedo reticularis
+C0006664,calcinosis cutis
+C0242184,hypoxie
+C0011175,exsikkose
+C0001122,azidose
+C0033802,pseudogicht
+C0232766,flattertremor
+C1142109,sopor
+C0009677,makroglossie
+C0020578,hyperventilation
+C0002064,alkalose | respiratorische
+C0035229,respiratorische insuffizienz
+C0020440,hyperkapnie
+C0001127,respiratorische azidose
+C0035423,rheologie
+C0220983,metabolische alkalose
+C2004489,regurgitation
+C0018834,sodbrennen
+C0035339,retinoide
+C0239161,daktylitis
+C0019087,haemorrhagische diathese
+C0947757,lymphome ane
+C0427544,monozytopenie
+C1142446,bizytopenie
+C0858867,retikulozytopenie
+C0085662,makrozytose
+C0221281,poikilozytose
+C0333942,polychromasie
+C0221278,anisozytose
+C1868945,polyglobulie
+C0234979,dysdiadochokinese
+C0193388,leberbiopsie
+C0042571,drehschwindel
+C0494562,sonstiger hoerverlust
+C1136085,gammopathie | monoklonale
+C0001824,granulozytopenie
+C0086438,hypogammaglobulinaemie
+C0525027,kapsulorhexis
+C1956311,phakektomie
+C0020615,hypoglykaemie
+C0035078,nierenversagen
+C0085593,schuettelfrost
+C0919671,subileus
+C0040252,tinea corporis
+C0013595,ekzem
+C0039128,syphilis
+C0033860,psoriasis
+C0085657,pityriasis alba
+C0478132,sonstige miktionsstoerungen
+C0149707,haematospermie
+C0265610,klinodaktylie
+C0234233,druckschmerz
+C0015230,exanthem
+C1739421,akuter drehschwindel
+C0240595,rotierender nystagmus
+C0026470,mgus
+C0263338,chronische urtikaria
+C0854330,herpes zoster dermatitis
+C0026946,mykosen
+C0038218,asthmaanfall
+C0023212,linksherzinsuffizienz
+C0236018,aura
+C2363911,kopfschmerz unter koerperlicher belastung
+C0751466,phonophobie
+C0003537,aphasie
+C0260662,hoerstoerung
+C0852418,sprachstoerungen
+C0005699,blastenschub
+C0920063,harnsaeure hoch
+C0024110,lungenabszess nnb
+C0221244,schuppen
+C0024143,lupusnephritis
+C0002880,autoimmunhaemolytische anaemie
+C0221201,maculoeses exanthem
+C0235499,multiple teleangiektasien
+C0852968,alopecia effluvium
+C0033975,psychosen
+C0007971,cheilitis
+C0014868,oesophagitis
+C0016382,hitzegefuehl
+C4082299,bulbaerparalyse
+C0016167,analfissur
+C2363872,marisken
+C0033775,pruritus ani
+C0034888,rektumprolaps
+C0009402,kolorektales karzinom
+C0001883,atemwegsobstruktion nnb
+C0034067,lungenemphysem
+C0022354,cholestatischer ikterus
+C0438237,leberenzyme anomal
+C0020488,hypernatriaemie
+C0546817,hypervolaemie
+C0013390,dysmenorrhoe
+C0016205,flatulenz / meteorismus / aufstossen
+C0027947,neutropenie
+C0017574,gingivitis
+C0243026,sepsis
+C0425945,menstruation verlaengert
+C0149745,mundulzera
+C0040425,tonsillitis
+C0007642,phlegmone
+C0023531,leukoplakie
+C0007860,zervizitis
+C0004769,bartholinitis
+C0033246,proktitis
+C0007758,zerebellaere ataxie
+C0020458,hyperhidrosis
+C0423600,globusgefuehl des pharynx
+C0085628,stupor
+C0233612,flexibilitas cerea
+C0026884,mutismus
+C0013528,echolalie
+C0240735,persoenlichkeitsveraenderung
+C0020625,hyponatriaemie
+C0040440,zahnextraktion
+C0018924,haemarthros
+C0544864,bleisaum
+C0085584,enzephalopathie
+C0016330,fluor
+C0012556,rachendiphtherie
+C0032541,polyneuritis
+C0456909,sehverlust
+C0149931,migraene
+C0238457,nierenvenenthrombose
+C0034734,raynaud
+C0027051,myokardinfarkt
+C0013922,embolie
+C0000809,abort | habitueller
+C0043251,trauma
+C0035243,atemwegsinfektion
+C0014544,epileptischer anfall
+C0751495,fokale anfaelle
+C0038450,stridor
+C0042341,varikozele
+C0016199,flankenschmerz
+C0239937,mikrohaematurie
+C0152169,harnleiterkolik
+C1963891,gasbrand
+C0031154,peritonitis
+C0016479,lebensmittelvergiftung
+C0520459,nekrotisierende enterokolitis
+C0006057,botulismus
+C0039614,tetanus
+C1257843,pseudomembranoese kolitis
+C0086565,leberfunktionsstoerung
+C0852553,psychiatrische symptome ane
+C0221328,nasolabialfalte
+C0224176,platysma
+C0014034,enanthem
+C0241262,himbeerzunge
+C0001925,albuminurie
+C0020473,hyperlipidaemie
+C0013456,ohrenschmerz
+C0018777,schallleitungsschwerhoerigkeit
+C0575081,gangstoerungen
+C0042024,blaseninkontinenz
+C1112468,kleinschrittiger gang
+C0025222,teerstuhl
+C0018926,haematemesis
+C0267072,oesophageale dysphagie
+C0037036,hypersalivation
+C0155773,pfortaderthrombose
+C0013911,abmagerung
+C0017565,zahnfleischbluten
+C0740394,hyperurikaemie
+C0026635,mundatmung
+C0037384,schnarchen
+C0004339,auskultation
+C0085624,brennen
+C0008370,cholestase
+C0016059,fibrose
+C0085577,normozytaere anaemie
+C0014724,aufstossen
+C0392452,kraniotabes
+C0426824,rachitischer rosenkranz
+C0011334,karies
+C0005682,harnblase
+C0000727,akutes abdomen
+C0029883,mittelohrerguss
+C0549099,perforation
+C0086625,mimische muskulatur
+C0037822,sprechstoerung
+C0520546,mikroembolien der lunge
+C0162297,atemstillstand
+C0478875,sonstige stuerze auf gleicher ebene
+C1527344,dysphonie
+C1384666,hypakusis
+C0231218,krankheitsgefuehl
+C0034941,pupillenreflex
+C0235267,rotes auge
+C0423602,fremdkoerpergefuehl
+C0242490,enthesopathie
+C0375553,ueberlaufinkontinenz
+C0201973,ck
+C0013384,dyskinetisches syndrom
+C0016242,mouches volantes
+C0852361,hautblutungen
+C0015934,fetale wachstumsretardierung
+C0027080,myoglobinurie
+C0025007,masern
+C0015231,exanthema subitum
+C0006840,candidose
+C0011616,kontaktdermatitis
+C0036508,dermatitis | seborrhoische
+C0010692,zystitis
+C1704272,benigne prostatahyperplasie
+C0032961,schwangerschaft
+C0012798,diuretika
+C0234488,paraphasie
+C0155540,otorrhoe
+C0085616,vasospasmus
+C0150988,sklerodaktylie
+C0026034,mikrostomie
+C0021847,intestinale pseudoobstruktion
+C0151654,myokardfibrose
+C0035085,niereninfarkt
+C0155765,mikroangiopathie
+C0478124,sonstige hautveraenderungen
+C0277799,intermittierendes fieber
+C0036749,serositis
+C0495672,hepatomegalie | anderenorts nicht klassifiziert
+C0495673,splenomegalie | anderenorts nicht klassifiziert
+C0235999,schmerzen hals / schulter
+C0743912,ferritin hoch
+C1141969,ergotherapie
+C0020224,polyhydramnion
+C0085612,ventrikulaere arrhythmie
+C0042514,tachykardie ventrikulaer
+C0235983,normochrome anaemie
+C0206160,retikulozytose
+C0575805,handschwellung
+C0029443,osteomyelitis
+C0011606,erythrodermie
+C0870082,hyperkeratose
+C0221260,onychodystrophie
+C0012739,verbrauchskoagulopathie
+C0948840,meningeosis leucaemica
+C1706559,cornea verticillata
+C0007787,tia
+C0005959,knochenmarkhyperplasie
+C1142004,myokardabszess
+C0023211,linksschenkelblock
+C0264686,koronarembolie
+C0149651,uhrglasnaegel
+C0018989,hemiparese
+C0027697,nephritis
+C0234906,erythema anulare
+C0030270,pankarditis
+C0004238,vorhofflimmern
+C0020542,pulmonale hypertonie
+C0332610,facies mitralis
+C0036980,kardiogener schock
+C0151636,ventrikulaere extrasystolen
+C0857087,schwindelanfaelle
+C0235527,rechtsherzinsuffizienz
+C0424605,entwicklungsverzoegerung
+C0948783,bronchopulmonale infektion
+C0857375,hypoxischer stillstand
+C0158731,kielbrust
+C0016842,trichterbrust
+C0016202,knickfuss
+C0032326,pneumothorax
+C0409495,protrusio acetabuli
+C0022821,kyphose
+C0221358,dolichozephalie
+C3494422,retrognathie
+C0152459,striae
+C0027092,myopie
+C0026267,mitralklappenprolaps
+C0003486,aortenaneurysma
+C0265004,aortenektasie
+C0003706,arachnodaktylie
+C0392477,plattfuss | kongenital
+C0085610,sinusbradykardie
+C0030587,paroxysmale vorhoftachykardie
+C0235477,bigeminus
+C0264886,reizleitungsstoerungen
+C0085298,ploetzlicher herztod
+C0192389,oesophagusdilatation
+C0025164,megaoesophagus
+C0025160,megakolon
+C1168392,mittlerer venendruck erhoeht
+C0020532,hypersplenismus
+C0600177,low - cardiac - output - syndrom
+C0042510,kammerflimmern
+C0025289,meningitis
+C0010043,ulcus corneae
+C0040586,tracheobronchitis
+C0206061,interstitielle pneumonie
+C0006277,bronchitis
+C0006285,bronchopneumonie
+C0043167,keuchhusten
+C0006266,bronchospasmus
+C0392315,glottiskrampf
+C0159054,sputum anomal
+C0542142,rekurrensparese
+C0427855,pleuraexsudat
+C0344306,interkostalneuralgie
+C0085655,polymyositis
+C0836924,thrombozytose
+C0263661,osteoarthropathie
+C0019079,haemoptoe
+C0239134,husten mit auswurf
+C0700198,aspiration
+C0013395,dyspepsie
+C0017181,gastrointestinale blutungen
+C1391732,tumorkachexie
+C0023052,larynxoedem
+C0027429,nasale obstruktion
+C0024312,lymphozytopenie
+C0159060,darmgeraeusche anomal
+C0221512,magenschmerzen
+C0600142,hitzewallung
+C0553980,endokardfibrose
+C0040961,trikuspidalinsuffizienz
+C0018991,hemiplegie
+C0079581,hypochlorhydrie
+C0240773,plantarerythem
+C0085666,spider naevi
+C0151514,hautatrophie
+C0013312,dupuytren kontraktur
+C0020678,hypotrichose
+C0542571,gesichtsoedem
+C1963913,erythrozytenzylinder im sediment vorhanden
+C0151701,lungenblutung

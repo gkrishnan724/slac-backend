@@ -1,0 +1,303 @@
+C0162565,porphyrie | akute intermittierende
+C0162566,porphyria cutanea tarda
+C0004238,vorhofflimmern
+C0023212,linksherzinsuffizienz
+C0235527,rechtsherzinsuffizienz
+C0018801,herzinsuffizienz
+C0007194,obstruktive kardiomyopathie
+C0007196,kardiomyopathie | restriktive
+C0007193,dilatative kardiomyopathie
+C0024790,paroxysmale naechtliche haemoglobinurie
+C0037889,anaemie kugelzell
+C1268964,myelodysplastisches syndrom nicht klassifizierbar
+C0947845,akute und chronische sarkoidose
+C0340164,loefgren – syndrom
+C0042171,heerfordt - syndrom
+C0085278,antiphospholipidsyndrom
+C0034155,mikroangiopathie | thrombotische
+C0020532,hypersplenismus
+C0032227,pleuraerguss
+C0034063,lungenoedem
+C0032326,pneumothorax
+C0877430,asthma chronisch
+C0024117,chronisch obstruktive lungenkrankheit
+C0032285,pneumonie
+C0034067,lungenemphysem
+C0034069,lungenfibrose
+C0034065,lungenembolie
+C0149514,akute bronchitis
+C0006271,bronchiolitis
+C0343528,pontiac - fieber
+C0023241,pneumonie durch legionella
+C0857946,atypische pneumonie
+C1535939,pneumocystis jirovecii - pneumonie
+C0041296,tuberkulose
+C0041333,tuberkulose | urogenitale
+C1740806,atypische mykobakteriose
+C0027145,myxoedem
+C0002390,allergische alveolitis | exogene
+C0043167,pertussis
+C0017150,gastrinom
+C0085695,chronische gastritis
+C0023788,morbus whipple
+C0235950,zinkmangel
+C0024473,magnesiummangel
+C0032827,kaliummangel
+C0042842,vitamin - a-mangel
+C0007570,gluten - sensitive enteropathie
+C0949570,allergie | weizen
+C0221036,acrodermatitis enteropathica
+C0017155,menetrier - krankheit
+C0023530,leukozytopenie
+C0221406,cushing - krankheit
+C0020461,hyperkaliaemie
+C0010068,koronare herzkrankheit
+C0029456,osteoporose
+C1258215,ileus
+C0023890,leberzirrhose
+C0018378,guillain - barre - syndrom
+C0019937,horner - syndrom
+C0338481,augenmigraene
+C0010346,morbus crohn
+C0026764,plasmazellmyelom
+C1527249,kolorektales karzinom
+C0026896,myasthenia gravis
+C0003873,arthritis | rheumatoide
+C0002871,anaemie
+C0039070,synkope
+C0026769,multiple sklerose
+C0020621,hypokaliaemie
+C1306557,chronisch venoese insuffizienz
+C0008350,cholelithiasis
+C0020550,hyperthyreose
+C0025289,meningitis
+C0022661,chronische niereninsuffizienz
+C0027726,nephrotisches syndrom
+C0041948,uraemie
+C0020676,hypothyreose
+C0235295,akutes abdomen
+C0020542,pulmonale hypertonie
+C3495801,granulomatose mit polyangiitis
+C0020615,hypoglykaemie
+C0011570,depression
+C0003962,aszites
+C0031511,phaeochromozytom
+C0022346,ikterus
+C0017658,glomerulonephritis
+C0020649,hypotonie
+C0340643,aortendissektion
+C0040425,tonsillitis
+C0036262,skabies
+C0854330,herpes zoster dermatitis
+C1704272,benigne prostatahyperplasie
+C0235974,pankreaskarzinom
+C0011848,diabetes insipidus
+C0020437,hyperkalzaemie
+C0021345,Pfeiffersches Druesenfieber
+C0162316,eisenmangelanaemie
+C0852445,morbus hodgkin
+C0035012,morbus reiter
+C0036974,schock
+C0010674,mukoviszidose
+C0014118,endokarditis
+C0034734,Raynaud
+C0036341,Schizophrenie
+C0038525,subarachnoidalblutung
+C0019187,hepatitis | alkoholische
+C0032461,polycythaemia
+C0004943,morbus behcet
+C0011206,delir
+C0020651,orthostasesyndrom
+C0011633,dermatomyositis
+C0002895,sichelzellkrankheit
+C0018995,haemochromatose
+C0019151,enzephalopathie | hepatische
+C0002726,amyloidose
+C0035222,akutes respiratorisches distress – syndrom
+C1144799,hypertensive kardiomyopathie
+C0011175,exsikkose
+C1384514,primaerer hyperaldosteronismus
+C0034072,cor pulmonale
+C0017168,gastrooesophageale refluxkrankheit
+C0033860,psoriasis
+C1145670,respiratorische insuffizienz
+C0549346,ischialgie
+C0043121,wernicke - enzephalopathie
+C0019202,morbus wilson
+C0012813,divertikulitis
+C0025281,morbus meniere
+C0024305,non-hodgkin - lymphom
+C0086543,katarakt
+C0014038,enzephalitis
+C0024530,malaria
+C0034186,pyelonephritis
+C0032026,pityriasis rosea
+C0017551,gilbert syndrom
+C0600139,prostatakarzinom
+C0013080,down - syndrom
+C0019158,hepatitis
+C0001824,agranulozytose
+C0155502,benigner paroxysmaler lagerungsschwindel
+C0023434,chronische lymphatische leukaemie
+C0003504,aortenklappeninsuffizienz
+C0149931,migraene
+C0007787,transitorische ischaemische attacke
+C0023473,chronische myeloische leukaemie
+C0006267,bronchiektase
+C0024141,systemischer lupus erythematodes
+C0040127,thyreotoxische krise
+C1527311,hirnoedem
+C0019112,haemorrhoiden
+C0038358,ulcus ventriculi
+C0221757,alpha - 1 proteinase - inhibitormangel
+C0010481,cushing - syndrom
+C0029925,ovarialkarzinom
+C0002874,anaemie aplastisch
+C0018081,gonorrhoe
+C0039232,av knoten - reentry - tachykardie
+C0008049,varizellen
+C0006285,bronchopneumonie
+C0221069,syndrom der vorderen spinalarterie
+C0022972,lambert - eaton syndrom
+C0016053,fibromyalgie
+C0007398,katatonie
+C0021141,schwartz - bartter - syndrom
+C0042974,von - willebrand - krankheit
+C0023176,bleivergiftung
+C0302592,zervixkarzinom
+C1306571,leberinsuffizienz
+C0012546,diphtherie
+C0001206,akromegalie
+C0020428,hyperaldosteronismus
+C0003864,arthritis
+C0007115,schilddruesenkarzinom
+C0151945,zerebrale venenthrombose
+C0542142,laehmung des nervus laryngeus recurrens
+C0007134,nierenzellkarzinom
+C0451641,urolithiasis
+C0021400,influenza
+C0520764,clostridien - gastroenteritis
+C0035400,reye syndrom
+C0032708,porphyrie
+C0376175,fazialisparese
+C0026691,kawasaki syndrom
+C0011881,diabetische nephropathie
+C0036285,scharlach
+C0017152,gastritis
+C0264558,spannungspneumothorax
+C0008373,cholesteatom
+C0031046,perikarditis
+C0020258,hydrozephalus | normaldruck
+C0152018,oesophaguskarzinom
+C2239176,hepatozellulaeres karzinom
+C0040028,essentielle thrombozythaemie
+C0751761,schlafapnoesyndrom der oberen luftwege
+C0008677,chronische bronchitis
+C0153633,gehirntumor boesartig
+C0038531,subclavian - steal syndrom
+C0027059,myokarditis
+C0021807,intertrigo
+C0008311,cholangitis
+C0566602,primaer sklerosierende cholangitis
+C0024586,karzinoid - syndrom
+C0852437,myeloproliferative erkrankungen ( ausschl . leukaemien )
+C0149518,akute gastritis
+C0035579,rachitis
+C3888977,uterine myomatose
+C0023467,akute myeloische leukaemie
+C0029882,otitis media
+C0006107,commotio cerebri
+C0014869,refluxoesophagitis
+C0010692,zystitis
+C1510475,divertikulose
+C0011119,taucherkrankheit
+C0752347,lewy - koerper - demenz
+C0149801,urosepsis
+C0043019,Wallenberg Syndrom
+C0558355,Tonsillenkarzinom
+C0206702,klatskintumor
+C0024225,lymphangitis
+C0030920,ulkus | gastroduodenal
+C0017601,glaukom
+C3495928,schilddruesenbedingte orbitopathie
+C0949690,spondylarthritis
+C0003492,aortenisthmusstenose
+C0152032,harnverhaltung
+C0027849,malignes neuroleptisches syndrom
+C0030353,stauungspapille
+C0392549,infantile zerebralparese
+C0035305,netzhautabloesung
+C0041976,urethritis
+C0019069,haemophilie a
+C0017205,gaucher - krankheit
+C1704436,periphere arterielle verschlusskrankheit
+C0035410,rhabdomyolyse
+C0035920,roeteln
+C0023449,akute lymphatische leukaemie
+C0014752,erythrasma
+C0028734,nykturie
+C0948968,Osteomyelofibrose
+C0003550,broca - aphasie
+C0024904,mastoiditis
+C0039621,tetanie
+C0259756,herxheimer - reaktion
+C1258104,sklerose | progressive systemische
+C0030436,parakeratose
+C0087031,morbus still | juvenile form
+C0175702,williams - beuren - syndrom
+C0020305,hydrops fetalis
+C0553720,sphaerozytose
+C0017920,glukose phosphatasemangel 06
+C0023443,haarzellleukaemie
+C0036920,sezary - syndrom
+C0085669,akute leukaemie
+C0002986,fabry - syndrom
+C0398650,immunthrombozytopenische purpura
+C0014121,infektioese endokarditis
+C0035436,rheumatisches fieber
+C0026269,mitralklappenstenose
+C0026266,mitralklappeninsuffizienz
+C0026267,mitralklappenprolaps
+C0003507,aortenstenose
+C1956257,pulmonalstenose
+C0018817,vorhofseptumdefekt
+C0018818,ventrikelseptumdefekt
+C0013481,ebstein - anomalie
+C0039685,fallot tetralogie
+C0024796,marfan - syndrom
+C0151595,digitalisintoxikation
+C0041234,chagas - krankheit
+C0007177,herzbeuteltamponade
+C0265144,chronische konstriktive perikarditis
+C0027051,herzinfarkt
+C0032269,pneumokokkeninfektionen
+C0026936,mykoplasmeninfektion | nicht naeher bezeichnet
+C1096584,chlamydia pneumoniae - infektion
+C0029291,ornithose
+C0034362,q - fieber
+C0003175,infektion mit bacillus anthracis
+C0035235,respiratorische synzytialvirusinfektionen
+C0085740,mendelson - syndrom
+C0037116,silikose
+C0007121,bronchialkarzinom
+C0036202,sarkoidose
+C1321756,achalasie
+C0014854,oesophagusdivertikel
+C0024623,magenkarzinom
+C0016470,nahrungsmittelallergie
+C0302858,eiweissverlustsyndrom
+C0009324,colitis ulcerosa
+C0400821,mikroskopische kolitis
+C0022104,reizdarm
+C0001339,akute pankreatitis
+C0149521,chronische pankreatitis
+C0206695,karzinom | neuroendokrines
+C0021670,insulinom
+C0086768,verner - morrison - syndrom
+C0019189,hepatitis | chronische
+C0023896,alkoholische lebererkrankung
+C0162557,leberversagen | akutes
+C3805004,postinfektioese glomerulonephritis
+C0451728,rapid - progressives nephritisches syndrom
+C3805154,renales osteopathiesyndrom
+C0027708,nephroblastom

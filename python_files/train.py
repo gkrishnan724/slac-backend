@@ -3,15 +3,16 @@ import numpy as np
 import re
 import os
 import glob
-
+import sys
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 from sklearn.externals import joblib
 
 
-result = pd.read_csv('./disease-symptom-db.csv', encoding='utf-8', index_col=None, header=0)
+result = pd.read_csv('./python_files/disease-symptom-db.csv', encoding='utf-8', index_col=None, header=0)
+
 
 def isValid(cui):
     cui = str(cui)
@@ -36,13 +37,13 @@ def clean(the_string):
 result['Disease'] = result['Disease'].apply(convertCUI)
 result['Symptom'] = result['Symptom'].apply(convertCUI)
 
-result.to_csv("./disease-symptom-db.csv",index=False)
+result.to_csv("./python_files/disease-symptom-db.csv",index=False)
 
-df_foreign = pd.read_csv('./DiseaseSymptomKB.csv', encoding='utf-8', index_col=None, header=0)
+df_foreign = pd.read_csv('./python_files/DiseaseSymptomKB.csv', encoding='utf-8', index_col=None, header=0)
 
 result = result.append(df_foreign)
 #merging two data sources
-result.to_csv("./disease-symptom-merged.csv",index=False)
+result.to_csv("./python_files/disease-symptom-merged.csv",index=False)
 
 result['Disease'] = result['Disease'].astype(str)
 result['Symptom'] = result['Symptom'].astype(str)
@@ -68,7 +69,7 @@ df_pivoted = df_pivoted.groupby('Disease').sum()
 df_pivoted = df_pivoted.reset_index()
 
 
-all_files_ml = "./data/all-files-for-ml"
+all_files_ml = "./python_files/data/all-files-for-ml"
 
 df_pivoted.to_csv(os.path.join(all_files_ml, "all_pivoted.csv"), index=False)
 
@@ -123,7 +124,8 @@ def findFeatures(disease):
 sample = np.zeros((len(features),), dtype=np.int)
 sampe = sample.tolist()
 #search params
-search = ["C0039239"]
+search = sys.argv[1].split(',')
+
 for i,s in enumerate(search):
     sample[feature_dict[s]] = 1
 
@@ -146,7 +148,7 @@ y_pred_prob = mnb.predict_proba(sample)[0]
 
 #translations
 import csv
-filename="translations.csv"
+filename="./python_files/translations.csv"
 columns=[]
 rows=[]
 #converting age to float and int
@@ -174,25 +176,18 @@ for i in range(1,len(rows)):
 temp1=(trans[0]['disease'])
 temp2=(trans[1]['disease'])
 temp3=(trans[2]['disease'])
-print("*********")
-print(disease[temp1], trans[0]['prop'],disease[temp2], trans[1]['prop'], disease[temp3], trans[2]['prop'])
-
-#also return symptoms with the top three diseases
-temp1=trans[0]['sy']
-temp2=trans[1]['sy']
-temp3=trans[2]['sy']
 
 symptoms={}
 for i in range(1,len(rows)):
     symptoms[rows[i][3]]=rows[i][2]
-for i in range(len(temp1)):
-    temp1[i]=symptoms[temp1[i]]
-for i in range(len(temp2)):
-    temp2[i]=symptoms[temp2[i]]
-for i in range(len(temp3)):
-    temp3[i]=symptoms[temp3[i]]
 
-print(temp1)
-print(temp2)
-print(temp3)
+print({"code":temp1,"name":disease[temp1],"prob":trans[0]['prop'],"symptoms":[symptoms[item] for item in trans[0]['sy']]})
+print({"code":temp2,"name":disease[temp2],"prob":trans[1]['prop'],"symptoms":[symptoms[item] for item in trans[1]['sy']]})
+print({"code":temp3,"name":disease[temp3],"prob":trans[2]['prop'],"symptoms":[symptoms[item] for item in trans[2]['sy']]})
+
+
+#also return symptoms with the top three diseases
+
+
+
 
